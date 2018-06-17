@@ -1,7 +1,7 @@
 ## eos开发视频教程
 这里收集了一些非常不错的EOS视频开发教程
 
-### 《EOS智能合约-从Helloword到数据库操作》
+### 一、《EOS智能合约-从Helloword到数据库操作》
 主讲人：JackDiSalvatore
 
 版本：Dawn3.0
@@ -20,3 +20,4 @@
 
 教程源码：[点此获取](https://github.com/JackDiSalvatore/shared_contracts/tree/master/my_tutorials/newapp1)
 
+### 二、
