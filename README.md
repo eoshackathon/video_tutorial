@@ -20,9 +20,7 @@
 
 4- [更多数据库操作](https://www.youtube.com/watch?v=VcpheeG0SqI&t=6s)
 
-教程源码：
-
-[点此获取](https://github.com/JackDiSalvatore/shared_contracts/tree/master/my_tutorials/newapp1)
+教程源码：[点此获取](https://github.com/JackDiSalvatore/shared_contracts/tree/master/my_tutorials/newapp1)
 
 ### 二、《eosjs-通过RPC连接前端与区块链》
 主讲人：JackDiSalvatore
@@ -36,6 +34,4 @@
 视频：
 [通过RPC连接前端与区块链](https://www.youtube.com/watch?v=bXtXQm3zcPU)
 
-教程源码：
-
-[点此获取](https://github.com/JackDiSalvatore/WebDev/tree/master/EOSTest1)
+教程源码：[点此获取](https://github.com/JackDiSalvatore/WebDev/tree/master/EOSTest1)
